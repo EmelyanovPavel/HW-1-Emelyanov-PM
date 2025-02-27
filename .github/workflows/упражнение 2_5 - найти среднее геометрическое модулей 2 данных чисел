@@ -1,0 +1,18 @@
+// найти среднее геометрическое модулей 2 данных чисел
+
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main() 
+{
+
+    long double a, b;
+    cin >> a >> b;
+
+    cout << (a + b) / 2 << endl;  // среднее арифметическое чисел
+    cout << sqrt(abs(a * b)) << endl;  // среднее геометрическое модулей чисел
+
+    return 0;
+}
