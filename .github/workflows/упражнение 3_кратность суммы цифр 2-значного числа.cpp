@@ -27,9 +27,8 @@ using namespace std;
 
 int main() {
 
-   int number1, number2, a;
-   cin >> number1 >> number2;
-	cin >> a;
+    int number1, number2, a;
+    cin >> number1 >> number2 >> a;
 
 	cout << "Created number: " << number1 << number2 << endl;
 
