@@ -1,4 +1,5 @@
 // найти периметр квадрата, площадь которого равна а.
+
 #include <cstdio>
 #include <iostream> 
 #include <cmath>
